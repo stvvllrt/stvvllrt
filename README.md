@@ -1,2 +1,14 @@
 # profile
-this should be my profile, if it is here and you are reading this message, im dumb
+
+Hi! 
+Name: Stanislav
+Age: 18
+Occupation: Student
+
+Currently working on schedule app for my university
+
+Current stage: API parsing
+In use:
+- Kotlin
+- Ktor
+
