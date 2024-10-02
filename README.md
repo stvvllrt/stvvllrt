@@ -1,9 +1,10 @@
 # profile
 
 Hi! 
-Name: Stanislav
-Age: 18
-Occupation: Student
+
+- Name: Stanislav
+- Age: 18
+- Occupation: Student
 
 Currently working on schedule app for my university
 
