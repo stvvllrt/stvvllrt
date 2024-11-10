@@ -9,6 +9,7 @@ Hi!
 Currently working on schedule app for my university
 
 Current stage: API parsing
+
 In use:
 - Kotlin
 - Ktor
